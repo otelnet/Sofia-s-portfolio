@@ -1,0 +1,6 @@
+{
+  "name": "Portfolio Studio & Showcase",
+  "description": "A modern, high-converting tech portfolio website and interactive planning studio featuring structured case studies, dynamic copywriting, and tech stack blueprints.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
